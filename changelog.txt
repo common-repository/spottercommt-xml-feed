@@ -1,0 +1,14 @@
+--- Version: 1.0.4 ---
+Adding Shipping cost to XML
+
+--- Version: 1.0.3 ---
+Fixing number formatting
+
+--- Version: 1.0.2 ---
+Adding the ability to not include products based on minimum cost and allowing to set free shipping
+
+--- Version: 1.0.1 ---
+Bug Fixing
+
+--- Version: 1.0.0 ---
+Initial Release
